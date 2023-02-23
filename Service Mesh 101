@@ -71,3 +71,8 @@ Traces will also come when
 ?? Service Mesh - no perfromance issue
 
 Traffic Route - routing percentages of users as per the version - user traffic distributed in various versions. CANARY DEPLPOYMENT
+
+GATEWAY
+2 ways of going through Gateway
+?? east/west
+
