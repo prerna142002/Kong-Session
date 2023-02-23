@@ -18,3 +18,13 @@ Remote Procedure Call
 Service Proxy
 API Gateway
 Service Mesh
+Monitoring
+Loging
+Tracing
+Class Engineering
+
+SERVICE MESH INTERFACE :
+Concerns : Noth, South concers 
+Gamma is the successor of the SMIs as gateways are there.
+
+Kuma is non-service
