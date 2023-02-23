@@ -27,4 +27,20 @@ SERVICE MESH INTERFACE :
 Concerns : Noth, South concers 
 Gamma is the successor of the SMIs as gateways are there.
 
+Kuma
 Kuma is non-service
+Simplified Multi-node support : Multi-zone and standalone.
+
+??Control Plane Redundancy
+Kuma - control plane
+Mothership - has the configurations
+Global - right config so zonal cp can push the relevant info to data planes
+
+Zone is an abstraction.
+
+OPPORTUNITIES IN MODERN ARCHITECTURE
+Bounded context and tentant reosurces
+While exerting centrlaized governance
+And shared services : Monitoring, observaility for SRE/Platform , Teamss
+Scale to enterpise requirements
+
