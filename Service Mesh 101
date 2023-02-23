@@ -3,3 +3,12 @@ Security as enpoints exposed
 
 Middleware - Orchestration
 Handling of Enterpise API Management. 
+Apagee - opensource 
+
+Light-weight mediator - centralized managed.
+?? North-bound && south-bound Api?
+
+Why was this not possible before?
+ENVOY Proxy - uild on lYft -> performed close to application.
+Capabilites: HTTP/2, gRPC
+
