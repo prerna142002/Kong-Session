@@ -48,3 +48,19 @@ Scale to enterpise requirements
 KUMA INSTALLATION
 KUMA GUI
 
+ZERO TRUST - when one pod is communication to another.
+?? port-forward
+
+
+Key Store
+trust Store
+Build in CA - provides certificates to side-car
+?? sidecar
+We can also build CAs
+
+OBSERVABILITY
+TRAFFIC TRACE : JAEGER COLLECTOR - Standard processed to use to collect the traces
+Traces are visual represntation of call.: Traffic went through services
+
+?? Traces vs logs
+
