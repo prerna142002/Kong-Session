@@ -9,6 +9,12 @@ Light-weight mediator - centralized managed.
 ?? North-bound && south-bound Api?
 
 Why was this not possible before?
-ENVOY Proxy - uild on lYft -> performed close to application.
+ENVOY Proxy - uild on lYft -> performed close to application. Single , FILTER Chains , Layer 4 to Layer 7 concerns
 Capabilites: HTTP/2, gRPC
 
+SERVICE MESH LANDSCAPE
+Coordination and Service Discovery
+Remote Procedure Call
+Service Proxy
+API Gateway
+Service Mesh
