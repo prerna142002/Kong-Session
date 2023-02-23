@@ -62,5 +62,7 @@ OBSERVABILITY
 TRAFFIC TRACE : JAEGER COLLECTOR - Standard processed to use to collect the traces
 Traces are visual represntation of call.: Traffic went through services
 
-?? Traces vs logs
+?? Traces vs logs  : performances vs details log 
+TODO : open telemetry 
+Traces will also come when 
 
