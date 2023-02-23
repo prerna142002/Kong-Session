@@ -69,3 +69,5 @@ Traces will also come when
 ??Lower environment service
 ??Shadow traffic
 ?? Service Mesh - no perfromance issue
+
+Traffic Route - routing percentages of users as per the version - user traffic distributed in various versions. CANARY DEPLPOYMENT
